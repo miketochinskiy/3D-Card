@@ -1,10 +1,19 @@
-# Web Starter
+# Michael Tochinskiy
 
-> Computers are dumb. Humans make them smart.
+> That which does not kill us makes us stronger. -Friedrich Nietzsche
 
-Starter (boilerplate) for all future projects.
+![Coffee](https://www.quirkbooks.com/wp-content/uploads/2015/04/coffee20writing.gif) 
 
-## Why Does This Exist?
-* Don't with blank files
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+## Major
+Business Major with Visual Communication Design at Eastern Washington University
+
+## Skills
+* Business Managment
+* Finance
+* Web Design
+* Illustration
+
+## My Links
+- [Github](https://github.com/miketochinskiy/miketochinskiy)
+- [CodePen](https://codepen.io/mtochinskiy)
+- [LinkedIn](https://www.linkedin.com/in/michaeltochinskiy)
